@@ -12,3 +12,7 @@ The idea is to use WordPress as a cms & use Rails to display posts in different 
 1. Any actions on the site are sent back upstream to appear on their site
    1. Comments
    1. Likes
+   
+## Plugins
+
+- `invisible-toolkit` contains code to work with services and tools provided by Invisible Hat Ventures

@@ -10,5 +10,5 @@ The idea is to use WordPress as a cms & use Rails to display posts in different 
 1. User selects which sites to sync
 1. System fetches data from api and saves locally
 1. Any actions on the site are sent back upstream to appear on their site
-  - Comments
-  - Likes
+   1. Comments
+   1. Likes
